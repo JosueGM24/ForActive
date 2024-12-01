@@ -1,0 +1,9 @@
+<%@ PAge Language="VB"%>
+<% HolaMundo.text = "Hola Mundo" %>
+
+<html>
+<body>
+<asp:label id = "HolaMundo" runat="server"/>
+
+</body>
+</html>
